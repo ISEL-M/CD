@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Producer:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="407de29b-23db-442c-855a-145191d3e671" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Consumer/.idea/artifacts/Consumer_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front-end/.idea/artifacts/Front_end_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrontEndContract/target/generated-sources/protobuf/java/cdTP2/Consumers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrontEndContract/target/generated-sources/protobuf/java/cdTP2/ConsumersOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Producer_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Configurator/Log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Configurator/Log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Configurator/src/main/java/rmqconfigurator/RabbitConfigurator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Configurator/src/main/java/rmqconfigurator/RabbitConfigurator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Configurator/target/classes/rmqconfigurator/RabbitConfigurator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Consumer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/src/main/java/mqconsumer/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Consumer/src/main/java/mqconsumer/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/target/classes/META-INF/Consumer.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/target/classes/mqconsumer/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/target/classes/mqconsumer/Evento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/target/classes/mqconsumer/spreadElectionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Front-end/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Front-end/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Front-end/src/main/java/frontEnd/FrontEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Front-end/src/main/java/frontEnd/FrontEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Front-end/target/classes/frontEnd/Evento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Front-end/target/classes/frontEnd/FrontEnd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Front-end/target/classes/frontEnd/frontEndInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Front-end/target/classes/frontEnd/spreadFrontHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEndContract/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEndContract/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEndContract/src/main/proto/chat.proto" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEndContract/src/main/proto/chat.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEndContract/target/FrontEndContract-1.0-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEndContract/target/FrontEndContract-1.0-jar-with-dependencies.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEndContract/target/FrontEndContract-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEndContract/target/FrontEndContract-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEndContract/target/classes/cdTP2/Chat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEndContract/target/classes/cdTP2/Chat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEndContract/target/classes/cdTP2/FrontEndToClientGrpc$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEndContract/target/classes/cdTP2/FrontEndToClientGrpc$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEndContract/target/classes/cdTP2/FrontEndToClientGrpc$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEndContract/target/classes/cdTP2/FrontEndToClientGrpc$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEndContract/target/classes/cdTP2/FrontEndToClientGrpc$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEndContract/target/classes/cdTP2/FrontEndToClientGrpc$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEndContract/target/classes/cdTP2/FrontEndToClientGrpc$FrontEndToClientBaseDescriptorSupplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEndContract/target/classes/cdTP2/FrontEndToClientGrpc$FrontEndToClientBaseDescriptorSupplier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEndContract/target/classes/cdTP2/FrontEndToClientGrpc$FrontEndToClientBlockingStub.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEndContract/target/classes/cdTP2/FrontEndToClientGrpc$FrontEndToClientBlockingStub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEndContract/target/classes/cdTP2/FrontEndToClientGrpc$FrontEndToClientFileDescriptorSupplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEndContract/target/classes/cdTP2/FrontEndToClientGrpc$FrontEndToClientFileDescriptorSupplier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEndContract/target/classes/cdTP2/FrontEndToClientGrpc$FrontEndToClientFutureStub.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEndContract/target/classes/cdTP2/FrontEndToClientGrpc$FrontEndToClientFutureStub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEndContract/target/classes/cdTP2/FrontEndToClientGrpc$FrontEndToClientImplBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEndContract/target/classes/cdTP2/FrontEndToClientGrpc$FrontEndToClientImplBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEndContract/target/classes/cdTP2/FrontEndToClientGrpc$FrontEndToClientMethodDescriptorSupplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEndContract/target/classes/cdTP2/FrontEndToClientGrpc$FrontEndToClientMethodDescriptorSupplier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEndContract/target/classes/cdTP2/FrontEndToClientGrpc$FrontEndToClientStub.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEndContract/target/classes/cdTP2/FrontEndToClientGrpc$FrontEndToClientStub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEndContract/target/classes/cdTP2/FrontEndToClientGrpc$MethodHandlers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEndContract/target/classes/cdTP2/FrontEndToClientGrpc$MethodHandlers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEndContract/target/classes/cdTP2/FrontEndToClientGrpc.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEndContract/target/classes/cdTP2/FrontEndToClientGrpc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEndContract/target/classes/chat.proto" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEndContract/target/classes/chat.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEndContract/target/generated-sources/protobuf/grpc-java/cdTP2/FrontEndToClientGrpc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEndContract/target/generated-sources/protobuf/grpc-java/cdTP2/FrontEndToClientGrpc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEndContract/target/generated-sources/protobuf/java/cdTP2/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEndContract/target/generated-sources/protobuf/java/cdTP2/Chat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrontEndContract/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../FrontEndContract/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mqproducer/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mqproducer/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mqproducer/ProducerWithHeaders.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mqproducer/Evento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mqproducer/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mqproducer/ProducerWithHeaders.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/mqproducer/Evento.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mqproducer/Producer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Producer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectId" id="23VkUyxtUiE8AQf3uhq8ZFsTlXw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Producer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Producer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Producer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Producer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Producer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Producer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Producer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Producer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Producer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Producer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mqproducer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../User" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Producer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mqproducer.Producer" />
+      <module name="Producer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mqproducer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Producer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="407de29b-23db-442c-855a-145191d3e671" name="Default Changelist" comment="" />
+      <created>1641411105928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641411105928</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27132195" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mqproducer/Evento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mqproducer/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="48" column="34" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="install:install-file -Dfile=spread-4.4.0.jar -DgroupId=org.spread -DartifactId=spread -Dversion=4.4.0 -Dpackaging=jar" />
+  </component>
+</project>

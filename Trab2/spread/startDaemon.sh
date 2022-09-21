@@ -1,0 +1,1 @@
+nohup spread -c /usr/local/etc/newspread.conf

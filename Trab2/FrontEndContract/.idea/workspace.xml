@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a9a832e4-8b57-423d-b07a-a66a12b0cc79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Consumer/.idea/artifacts/Consumer_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consumer/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Consumer/target/artifacts/Consumer_jar/Consumer.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/protobuf/java/cdTP2/Consumers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/protobuf/java/cdTP2/ConsumersOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Producer/.idea/artifacts/Producer_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Producer/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Producer/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Configurator/Log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Configurator/Log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Configurator/src/main/java/rmqconfigurator/RabbitConfigurator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Configurator/src/main/java/rmqconfigurator/RabbitConfigurator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Configurator/target/classes/rmqconfigurator/RabbitConfigurator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Configurator/target/classes/rmqconfigurator/RabbitConfigurator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Consumer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/src/main/java/mqconsumer/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Consumer/src/main/java/mqconsumer/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/target/classes/META-INF/Consumer.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Consumer/target/classes/mqconsumer/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Consumer/target/classes/mqconsumer/Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Front-end/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Front-end/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Front-end/target/classes/frontEnd/FrontEnd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Front-end/target/classes/frontEnd/frontEndInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Front-end/target/classes/frontEnd/spreadFrontHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/proto/chat.proto" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/proto/chat.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/FrontEndContract-1.0-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/FrontEndContract-1.0-jar-with-dependencies.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/FrontEndContract-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/FrontEndContract-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/grpc-java/cdTP2/FrontEndToClientGrpc.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/protobuf/grpc-java/cdTP2/FrontEndToClientGrpc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/protobuf/java/cdTP2/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/protobuf/java/cdTP2/Chat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Producer/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Producer/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Producer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Producer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Producer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Producer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Producer/src/main/java/mqproducer/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Producer/src/main/java/mqproducer/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Producer/src/main/java/mqproducer/ProducerWithHeaders.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Producer/target/classes/mqproducer/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Producer/target/classes/mqproducer/Producer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Producer/target/classes/mqproducer/ProducerWithHeaders.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/proto/chat.proto" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="FrontEndContract" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="FrontEndContract" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/FrontEndContract.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_android_annotations_4_1_1_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_common_protos_2_0_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_9_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_30_1_android.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_17_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_api_1_42_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_context_1_42_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_core_1_42_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_netty_shaded_1_42_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_protobuf_1_42_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_protobuf_lite_1_42_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_stub_1_42_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_perfmark_perfmark_api_0_23_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_5_5.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_19.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectId" id="23VjTvrVEmBIpox8X6I33uCTJLt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FrontEndContract" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrontEndContract" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrontEndContract" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrontEndContract" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrontEndContract" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrontEndContract" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrontEndContract" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrontEndContract" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="proto" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9a832e4-8b57-423d-b07a-a66a12b0cc79" name="Default Changelist" comment="" />
+      <created>1641751705031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641751705031</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.030916844" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.25053304" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/proto/chat.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

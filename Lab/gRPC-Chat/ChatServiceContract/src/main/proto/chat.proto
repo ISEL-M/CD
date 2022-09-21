@@ -1,0 +1,22 @@
+syntax = "proto3";
+import "google/protobuf/empty.proto";
+option java_multiple_files = true;
+option java_package = "chat";
+
+package forum;
+
+// The Chat service definition.
+service Chat {
+    rpc register(UserID) returns (stream ChatMessage);
+    rpc sendMessage(ChatMessage) returns (google.protobuf.Empty);
+}
+
+message UserID {
+    string name = 1;
+}
+
+message ChatMessage {
+    string fromUser = 1;
+    string txtMsg = 3;
+}
+

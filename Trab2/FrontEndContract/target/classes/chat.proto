@@ -1,0 +1,45 @@
+syntax = "proto3";
+import "google/protobuf/empty.proto";
+option java_multiple_files = true;
+option java_package = "cdTP2";
+
+package forum;
+
+// The Chat service definition.
+service FrontEndToClient {
+	rpc getHighestSpeed(google.protobuf.Empty) returns (Event);
+	rpc getSpeedFromDate(Filter) returns (Event);
+	rpc getSpeedID(Filter) returns (Events);
+	rpc getSpeedFromLocal(Filter) returns (Events);
+	rpc getSpeedFromSpeed(Filter) returns (Events);
+	rpc getConsumers(google.protobuf.Empty) returns (Consumers);
+}
+message Filter{
+	int32 id=1;
+	Date dateStart=2;
+	Date dateEnd=3;
+	string local=4;
+	int32 speedStart=5;
+	int32 speedEnd=6;
+}
+message Date {
+	string dia = 1;
+	string mes = 2;
+	string ano = 3;
+	string hora = 4;
+	string minuto = 5;
+	string segundo = 6;
+}
+message Events{
+	repeated Event ev=1;
+}
+message Consumers{
+	int32 nConsumer=1;
+}
+message Event {
+	int32 id = 1;
+	string local = 2;
+	int32 Speed= 3;
+	Date date = 4;
+}
+

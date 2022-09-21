@@ -1,0 +1,24 @@
+syntax = "proto3";
+import "google/protobuf/empty.proto";
+option java_multiple_files = true;
+option java_package = "cdTP1.ServiceToService";
+
+package forum;
+
+// The Chat service definition.
+service ServiceToService {
+    rpc sendMessage(stream ServiceChatMessage) returns (google.protobuf.Empty);
+}
+
+message ServiceToS {
+    string ip = 1;
+    int32 port = 2;
+}
+
+message ServiceChatMessage {
+    string fromUser = 1;
+    ServiceToS fromServer = 2;
+    string txtMsg = 3;
+    bool first = 4;
+}
+
